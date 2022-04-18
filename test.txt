@@ -23,7 +23,8 @@ we  -nos
 me  -ami
 me too - ami tambe 
 you- abo
-ami tin hamber - i am hungry
-abo tin hamber - you are hungry
-nos tin hamber - we are hungry
-nos tur tin hamber - we are all hungry
+i am hungry - ami tin hamber
+you are hungry - abo tin hamber
+we are hungry - nos tin hamber
+we are all hungry - nos tur tin hamber
+
