@@ -91,3 +91,4 @@ print(model.summary())
 filename = 'model.h5'
 checkpoint = ModelCheckpoint(filename,monitor='val_loss', verbose=1, save_best_only=True, mode='min',save_freq="epoch")
 model.fit(trainX, trainY, epochs=30, batch_size=64, validation_data=(testX, testY), callbacks=[checkpoint], verbose=2)
+model.save(filename)
