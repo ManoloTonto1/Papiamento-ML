@@ -83,7 +83,7 @@ testY = encode_output(testY, eng_vocab_size)
 
 # define model
 model = define_model(pap_vocab_size, eng_vocab_size, pap_length, eng_length, 256)
-model.compile(optimizer='adam', loss='categorical_crossentropy')
+model.compile(optimizer='adam', loss='categorical_crossentropy', metrics=['accuracy'])
 # summarize defined model
 print(model.summary())
 # plot_model(model, to_file='model.png', show_shapes=True)
@@ -92,3 +92,4 @@ filename = 'model.h5'
 checkpoint = ModelCheckpoint(filename,monitor='val_loss', verbose=1, save_best_only=True, mode='min',save_freq="epoch")
 model.fit(trainX, trainY, epochs=30, batch_size=64, validation_data=(testX, testY), callbacks=[checkpoint], verbose=2)
 model.save(filename)
+print("Model saved")
