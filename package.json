@@ -1,0 +1,23 @@
+{
+  "name": "papiamento-ml",
+  "version": "1.0.0",
+  "description": "tensorflow\r https://machinelearningmastery.com/develop-neural-machine-translation-system-keras/",
+  "main": "src/upload/uploader.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node src/upload/uploader.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ManoloTonto1/Papiamento-ML.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ManoloTonto1/Papiamento-ML/issues"
+  },
+  "homepage": "https://github.com/ManoloTonto1/Papiamento-ML#readme",
+  "dependencies": {
+    "firebase": "^9.6.11"
+  }
+}
