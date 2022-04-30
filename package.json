@@ -1,4 +1,5 @@
 {
+  "type": "module",
   "name": "papiamento-ml",
   "version": "1.0.0",
   "description": "tensorflow\r https://machinelearningmastery.com/develop-neural-machine-translation-system-keras/",
