@@ -1,25 +1,29 @@
 import {db} from './Firebase.js';
 import * as fs from 'fs';
-import {addDoc,collection} from "firebase/firestore";
+import {setDoc,collection, doc} from "firebase/firestore";
 
 
 
 const filedir = './vocabulario.txt';
 fs.readFile(filedir, (error, data) => {
-    data.toString("utf-8").split("\n").forEach( async line => {
+    data.toString("utf-8").split("\n").forEach( async (line,index) => {
         // Add a new document in collection 
-        await addDoc(collection(db, "Papiamento-data"), {
+       
+        await setDoc(doc(db, "Papiamento-data",line), {
+            id: index,
             papiamento: line,
             isNotPapiamento: 0,
             isPapiamento: 0,
             english:[],
         });
+        
+        console.log(index);
 
     });
 });
 
-// await addDoc(collection(db, "Papiamento-data"), {
-//     papiamento: "saki ta un palabra",
+// await setDoc(doc(db, "Papiamento-data",""), {
+//     papiamento: "bo mama ta gordo",
 //     isNotPapiamento: 0,
 //     isPapiamento: 0,
 //     english:[],
