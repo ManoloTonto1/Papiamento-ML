@@ -37,3 +37,4 @@ i am hungry - ami tin hamber
 you are hungry - abo tin hamber
 we are hungry - nos tin hamber
 we are all hungry - nos tur tin hamber
+you are all hungry - boso tur tin hamber
