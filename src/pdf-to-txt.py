@@ -13,11 +13,11 @@ text = ""
 #                     text_file.write(text)
                 # print(text)
 
-file = "./downloads/BNA-DIG-PAP-VOCABULARIO.pdf"
+file = "./downloads/BNA-DIG-LAGO-DICTIONARY-1953.pdf"
 with fitz.open(file) as doc:
     for page in doc:
         text += page.get_text()
-        with open('papiamento_words.txt', 'w',encoding="utf-8") as text_file:
+        with open('papiamento_dictionar.txt', 'w',encoding="utf-8") as text_file:
             text_file.write(text)
     # print(text)
 

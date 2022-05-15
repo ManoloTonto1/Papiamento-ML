@@ -55,7 +55,7 @@ def evaluate_model(model, tokenizer, sources, raw_dataset):
 		source = source.reshape((1, source.shape[0]))
 		translation = predict_sequence(model, eng_tokenizer, source)
 		raw_target, raw_src = raw_dataset[i]
-		if i < 10:
+		if i < 50:
 			print('src=[%s], target=[%s], predicted=[%s]' % (raw_src, raw_target, translation))
 		actual.append([raw_target.split()])
 		predicted.append(translation.split())

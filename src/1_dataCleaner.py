@@ -55,7 +55,7 @@ def save_clean_data(sentences, filename):
 	print('Saved: %s' % filename)
 
 # load dataset
-filename = 'test.txt'
+filename = 'data.txt'
 doc = load_doc(filename)
 # split into english-german pairs
 pairs = to_pairs(doc)
