@@ -381,3 +381,289 @@ awaken - lanta
 away - foi 
 awe - miedo 
 axe - hacha 
+back - lomba 
+back bone - wesu di lomba 
+backwards - pa tras 
+barrel - baril
+bad - mal 
+badge - ficha 
+bag - sacu 
+baggage - equipage
+bake - hasa 
+bake - hornia
+baker - panadero 
+bakery - panaderia 
+balance - balanza  
+balcony - balkon 
+bald - calvo 
+bale - bulto 
+bag - saco 
+ball - bala 
+ballast - balaster 
+balloon - balon 
+balloon -globo 
+banana - banana 
+bandage - verband 
+banish - saca foi tera 
+deport - deporta 
+bank - banco 
+bank note - placa di papel 
+banker - banquero 
+bankrupt - falliet 
+baptism - bautismo 
+baptize - bautiza 
+barber - barbero 
+barber shop - barberia 
+barely - apenas 
+bargain - baratiljo 
+barrel - barril
+base - base
+bashful - timido 
+basic - basico 
+basin - comchi 
+basket - macutu
+mouse - raton
+bath - banjo 
+bathe - banja 
+battery - bateria 
+battle - batalla
+bay - baai 
+bay - boca 
+be - ta
+be so kind - sea asina bon
+beach - kantu di laman 
+beam - balki 
+bear - oso 
+bear - beer
+hold on - wanta 
+hold on - soporta 
+take - hiba 
+beard - barba 
+bearer - portador 
+beast - bestia 
+beat - bati 
+beat - dal 
+hit - dal
+beat - suta 
+beauty - buniteza 
+beautiful - bunita 
+because - pasobra 
+become - bira
+be - ta 
+bed - cama 
+bed clothes - sobre cama 
+bed time - ora di bai drumi 
+bee - abeja 
+bees wax - was 
+beef - carni di baca 
+beef steak - bifstec 
+beer - cerbes
+beer - cerbez 
+befall - socede 
+before - adelanti 
+before - antes 
+before - dilanti
+before -  di prome 
+before hand - antemano 
+befriend - faborece 
+beg - pidi 
+beggar - pidido 
+begin - cuminsa 
+beginning - cuminsamento 
+behave - comporta 
+behavior - conducto 
+behind - atras 
+behold - obserba 
+behold - weita 
+see - mira
+contemplate - contempla
+oblige - obliga 
+belief - creencia 
+believe - kere 
+bell - bel
+ring the bell - bati klok 
+ring the bell - bati e bel 
+belong - pertenece 
+belly - barika 
+belly - barica 
+beloved - querida 
+beloved - estimado 
+below - abao 
+belt - faha 
+bench - banki 
+bend - dobla 
+beneficient - beneficio 
+beneficiary - benefecario 
+benefit - beneficio 
+bent - dobla 
+besides - ademas
+beside of - banda di 
+best - e di mas miho 
+bet - pusta 
+better - mas miho 
+better - mehor 
+between - mei mei
+between - den 
+between - entre 
+bevel - waterpas 
+bevel - nivel 
+beverage - bebida 
+beware - cuidao 
+beyond - adelante 
+big - grandi 
+bigger - mas grandi 
+biggest - e di mas grandi
+bike - bicicleta  
+bill of fare - lista di cuminda
+bill of fare - menu 
+bind - mara 
+bird - parha 
+birth - nacemento 
+birth - nacementu
+birthday - hacimentu di anja
+birthday - cumpli anja 
+birthday - cumpleaño
+bishop - obispo 
+bit - boor bit 
+a bit -poco 
+bite - morde 
+bitter - marga
+black - pretu 
+black - preto
+blackboard - borchi 
+bladder - blaas  
+paper- blachi 
+leaf- blachi mata
+blame - culpa 
+missing -falta 
+blank - bianco 
+blanket - dekel 
+blanket - deken 
+bleach - blanca 
+bleat - grita 
+bleed - sangra 
+bless - bendiciona 
+blind - siego 
+blind - ciegu 
+bliss - felicidad 
+blister - blaar 
+block - blokki 
+blond - blonda 
+blond - macamba 
+blood - sanger 
+bloodvessel - vena 
+blossom - flor knoppi 
+stain - mancha 
+stain -vlek 
+blotting paper - vloei 
+blow - supla 
+slap - bofta 
+hit -golpi 
+blue - blaw 
+blunt - stompi 
+board - tabla 
+boarding house - pension 
+boat - boto 
+boat - barcu 
+boat - barco
+vapor - vapor
+bodice - blusa 
+body - curpa 
+boil - herbe
+bolt - grender 
+bomb - bom 
+bone - wesu 
+bone - weso
+book - buki 
+book - boeki 
+bookseller - librero 
+boot - bota 
+boozed - burachi 
+border - frontera
+board - borda 
+bore - bora 
+borrow - fia 
+bosom - pecho 
+bosom - tete
+both - tur dos 
+both - ambos
+bother - molestia
+bother - molester 
+bottle - botella 
+bottle - boter
+bottom - fondo 
+bough - taki 
+boundary - frontera
+bouquet - boquet 
+bow - dobla 
+bow - inclina 
+incline - inclina 
+bend - inclina 
+bowl - comchi
+bowling - wega di kegel 
+bowling - bowling
+bow tie - dashi poeshi 
+bow tie - dashi pushi
+boy - mucha homber 
+box - caha 
+box - doosje 
+bracelet - pulsera 
+brain - seso 
+brain - celebro
+brain - tino
+brake - rem 
+branch - taki 
+brave - balente 
+bread - pan 
+sweetbread - pan dushi 
+sweetbread - pan bati 
+break - kibra 
+breakfast - desayuna 
+breakfast - desayuno
+lunch - almorza 
+breast - pechu 
+breast - pecho
+breathe - respira 
+breathe -hala rosea 
+breathing - respiracion 
+breeze - bries 
+breeze - brisa 
+brick - ladria 
+bride - no via 
+bridegroom - novio 
+bridge - brug 
+bridge - puente
+brief - concise 
+bright -cla
+bright - cla 
+brightness - claridad 
+bring - trece 
+broach - broche 
+broad - hanchu 
+broker - cosedor
+broom - basora 
+broth - soppi delega
+brother - ruman homber 
+brother in law - cunja 
+brother in law - cuña
+brother in law - swa 
+brother in law - cunado
+brow - frente 
+brown - maron 
+brown - bruin 
+bruise - machika 
+male - macho 
+buckle - gespu 
+bud - boton 
+bug - chincha 
+bugler - tocado di trompet
+build - traha 
+build - construi 
+building - edificio 
+bulb - lampi 
+bulb - pera di luz
+bunch - boshi 
+bunch -bundle
+burn - kima 
+burn - quima
+burden - carga 
