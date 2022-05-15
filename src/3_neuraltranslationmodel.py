@@ -44,7 +44,7 @@ def encode_output(sequences, vocab_size):
 	y = y.reshape(sequences.shape[0], sequences.shape[1], vocab_size)
 	return y
 
-# define NMT model
+# define NMT model Neural machine Translation
 def define_model(src_vocab, tar_vocab, src_timesteps, tar_timesteps, n_units):
 	model = Sequential()
 	model.add(Embedding(src_vocab, n_units, input_length=src_timesteps, mask_zero=True))
@@ -90,6 +90,6 @@ print(model.summary())
 # fit model
 filename = 'model.h5'
 checkpoint = ModelCheckpoint(filename,monitor='val_loss', verbose=1, save_best_only=True, mode='min',save_freq="epoch")
-model.fit(trainX, trainY, epochs=30, batch_size=64, validation_data=(testX, testY), callbacks=[checkpoint], verbose=2)
+model.fit(trainX, trainY, epochs=240, batch_size=64, validation_data=(testX, testY), callbacks=[checkpoint], verbose=2, shuffle=True)
 model.save(filename)
 print("Model saved")

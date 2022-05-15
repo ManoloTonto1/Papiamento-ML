@@ -16,12 +16,13 @@ def save_clean_data(sentences, filename):
 raw_dataset = load_clean_sentences('english-papiamento.pkl')
 
 # reduce dataset size
-n_sentences = 40
+n_sentences = 100 
 dataset = raw_dataset[:n_sentences, :]
+
 # random shuffle
 shuffle(dataset)
 # split into train/test
-train, test = dataset[:30], dataset[30:]
+train, test = dataset[:25], dataset[24:]
 # save
 save_clean_data(dataset, 'english-papiamento-both.pkl')
 save_clean_data(train, 'english-papiamento-train.pkl')

@@ -1,4 +1,8 @@
 hi - conta
+hi - hallo
+how are you - conta cubo
+what's up - conta
+what is up - conta
 good day  -  bon dia
 good morning  -  bon dia
 good evening  -  bona tardi
@@ -18,13 +22,17 @@ coffee - kofi
 meat   - carni 
 stew   - stoba 
 fish   - pisca
-hunger  -hamber
+hunger - hamber
 we  -nos
+we  -anos
 me  -ami
 me too - ami tambe 
 you- abo
 hungry - hamber
 dick - dolo 
+suck my dick - chupa mi dolo
+you are a dick - bo ta un dolo
+your dad's dick is very big - bo tata su dolo ta hopi grandi
 bitch - puta 
 dumb - kens 
 idiot - idiota 
@@ -38,3 +46,4 @@ you are hungry - abo tin hamber
 we are hungry - nos tin hamber
 we are all hungry - nos tur tin hamber
 you are all hungry - boso tur tin hamber
+mauricia was very hungry and thats why she ate beef stew - mauricia tabata tin hopi hamber y pasei ela come carni stoba
