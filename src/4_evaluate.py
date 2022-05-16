@@ -37,7 +37,7 @@ def word_for_id(integer, tokenizer):
 
 # generate target given source sequence
 def predict_sequence(model, tokenizer, source):
-	prediction = model.predict(source, verbose=0)[0]
+	prediction = model.predict(source, verbose=0)[0]	
 	integers = [argmax(vector) for vector in prediction]
 	target = list()
 	for i in integers:
@@ -83,9 +83,13 @@ testX = encode_sequences(ger_tokenizer, ger_length, test[:, 1])
 
 # load model
 model = load_model('model.h5')
-# test on some training sequences
-print('train')
-evaluate_model(model, eng_tokenizer, trainX, train)
-# test on some test sequences
-print('test')
-evaluate_model(model, eng_tokenizer, testX, test)
+print(model.predict([["mi ta stimabo"]]))
+
+
+
+# # test on some training sequences
+# print('train')
+# evaluate_model(model, eng_tokenizer, trainX, train)
+# # test on some test sequences
+# print('test')
+# evaluate_model(model, eng_tokenizer, testX, test)
