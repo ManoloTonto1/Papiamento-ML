@@ -6,6 +6,7 @@ from keras.utils.np_utils import to_categorical
 from keras.utils.vis_utils import plot_model
 from keras.models import Sequential
 from keras.layers import LSTM
+from keras.layers import CuDNNLSTM
 from keras.layers import Dense
 from keras.layers import Embedding
 from keras.layers import RepeatVector
@@ -82,11 +83,12 @@ testY = encode_sequences(eng_tokenizer, eng_length, test[:, 0])
 testY = encode_output(testY, eng_vocab_size)
 
 # define model
-model = define_model(pap_vocab_size, eng_vocab_size, pap_length, eng_length, 256)
+model = define_model(pap_vocab_size, eng_vocab_size, pap_length, eng_length, 128)
+
 model.compile(optimizer='adam', loss='categorical_crossentropy', metrics=['accuracy'])
 # summarize defined model
 print(model.summary())
-# plot_model(model, to_file='model.png', show_shapes=True)
+plot_model(model, to_file='model.png', show_shapes=True)
 # fit model
 filename = 'model.h5'
 checkpoint = ModelCheckpoint(filename,monitor='val_loss', verbose=1, save_best_only=True, mode='min',save_freq="epoch")

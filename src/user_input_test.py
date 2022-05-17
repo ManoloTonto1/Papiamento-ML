@@ -62,8 +62,8 @@ pap_vocabulary_size = len(pap_tokens.index_word)+1
 pap_length = max_length(data[:, 1])
 
 while True:
-    user = input("bisa algo den pap: ")
-    test = encode_sequences(pap_tokens, pap_length, [user])
+    user_input = input("bisa algo den pap: ")
+    test = encode_sequences(pap_tokens, pap_length, [user_input])
     pre = predict_sequence(model,eng_tokens,test)
     print(pre)
     

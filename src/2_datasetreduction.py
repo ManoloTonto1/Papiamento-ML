@@ -22,7 +22,8 @@ dataset = raw_dataset[:n_sentences, :]
 # random shuffle
 shuffle(dataset)
 # split into train/test
-train, test = dataset[:500], dataset[100:]
+size = 600
+train, test = dataset[0:size], dataset[400:]
 # save
 save_clean_data(dataset, 'english-papiamento-both.pkl')
 save_clean_data(train, 'english-papiamento-train.pkl')

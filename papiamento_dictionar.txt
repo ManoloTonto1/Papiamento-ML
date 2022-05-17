@@ -1,64 +1,3 @@
-bury - dera 
-burial - deramentu 
-burst - barst reventa 
-business - negocio 
-business - cuenta not your business - foi bo cuenta busy - ocupa 
-but - ma 
-pero 
-butcher - carnicero 
-butchershop. canoe butcher-shop - carniceria 
-butter - manteca 
-butterfly - barbuleta button - boton botona 
-buy - cumpra 
-by - cerca 
-by day - di dia per day - pa dia by no means - di ningun manera c c 
-cab - garoshi 
-cabbage - colo 
-cabin - kajuit 
-cable - kabel 
-cage - kauchi 
-cake - kuki 
-calculate - calcula 
-call - jama 
-yama calm - calmo 
-calm - calma calmness - calma 
-trankilidad 
-calve - bise 
-camera - camera aparato pa saca portret cambric - estopilla camp - campo 
-can - por - can 
-bleke 
-canary - kanari 
-cancel - cancela 
-cancer - cancer 
-candidate - candidate 
-candle - bela 
-canoe - canoa 
-candy catch pandv - cos dushi 
-cannon - kanon 
-canvas - iona 
-panja di bela cavalry - caballeria cap - pechi 
-petchi capable - capabel 
-capital - capital 
-captain - captan 
-capture - cohe presu 
-car " auto card - kaarchi 
-cardinal - cardinal care - 
-cuida 
-take care - be careful tene cuidao 
-careful - cuidadoso 
-cargo - carga 
-carpenter - carpinte 
-carpentry - carpinteria 
-carpenter shop - taller di carpenteria carpenter’s tools - herment di carpinte carpet - tapijt 
-carry - hiba 
-carga care - cuida 
-cuido 
-cart - garoshi 
-case - box - caha caso in case - en caso cash - cask-bari 
-cash-book - buki di caha cashier - cahero 
-casket - caha di morto castle - kasteel 
-cat - pushi 
-poeshi catch - cohe vanga 
 catholic chart catholic - catholico cause - causa 
 cave - cueba 
 cavity - buracu 
@@ -5727,8 +5666,13 @@ zaag di heru - hack-saw zaai - to sow zalfi - salve zapatu sapatu
 bill - 
 - cuenta  erase: "cash" cask - barril  cigar - siga clga  cigarette - sigaria cigaria dirty - shushi 
 
-forbid - prohobi taha  hem - zoom  hundredth - e di cien  infant - jlu di lechi  
-itch - grawatashi  jail - piscala  erase; 
+forbid - prohobi taha  hem - zoom  hundredth - e di cien  
+infant - yiu di lechi  
+itch - grawatashi 
+itch - grawatamento
+its itching - e ta grawata
+jail - prison
+jail - carcel
 lice - pieu  potente belongs by mighty  ninetieth - e di nobenta paplamentu - english acera 
 page kb.  adoracion  anhelo - desire wish  baki - trough  blra  erase: "insane"  obsolete - blra bleu add: perhaps - podlce^ quizes klzas razor - nabaha richest - e dl mas rlcu rum - ron sigh - susplra sore - had due spine - vesu dl lomba stepfather 
 street - caja caya tack 
